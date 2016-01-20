@@ -1,6 +1,6 @@
 {
   "name": "math-float64-set-low-word",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Sets the less significant 32 bits of a double-precision floating-point number.",
   "author": {
     "name": "Athan Reines",
